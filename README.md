@@ -1,13 +1,13 @@
 # Bankist-application
 Minimalist bank application
 
-To login:
+To login:-------------------
 
 username: jm
 
 password: 1111
 
-User 2:
+User 2:----------------------
 
 username: jd
 
