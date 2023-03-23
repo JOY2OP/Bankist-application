@@ -2,10 +2,12 @@
 Minimalist bank application
 
 To login:
+
 username: jm
 password: 1111
 
 User2:
+
 username: jd
 password: 2222
 
